@@ -6,8 +6,6 @@ import 'package:flutter/material.dart';
 import 'dart:js' as js;
 import 'dart:ui' as ui;
 
-import 'package:flutter/services.dart';
-
 /// Entrypoint of the application.
 void main() {
   runApp(const MyApp());
